@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Advance Back End Development 
 - 👯 I’m looking to collaborate on other people
 - 💬 Ask me about something www.linkedin.com/in/shakilahmed5161
-- 📫 How to reach me: shakilahmed5161@gmail.com 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me At: shakilahmed5161@gmail.com 
+- ⚡ Fun fact: Love Bodybuliding
 
