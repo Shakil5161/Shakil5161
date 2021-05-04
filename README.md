@@ -1,9 +1,5 @@
  ## Hi there 👋 I am Shakil Ahmed JS ❤️ lover 
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Front End & MERN development
 - 🌱 I’m currently learning Advance Back End Development 
 - 👯 I’m looking to collaborate on other people
