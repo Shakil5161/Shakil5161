@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shakilahmed5161" target="blank"><img src="https://img.shields.io/twitter/follow/shakilahmed5161?logo=twitter&style=for-the-badge" alt="shakilahmed5161" /></a> </p>
 
-- 🔭 I’m currently working on **Front End & MERN development**
-
-- 🌱 I’m currently learning **Advance Back End Development**
+- 🔭 I’m currently working as a Software Engineer at Echologyx.
 
 - 👨‍💻 All of my projects are available at [https://shakilahmed.netlify.app/](https://shakilahmed.netlify.app/)
 
